@@ -12,7 +12,11 @@ A Flutter Project to track your own Personal Expenses.
 
 ## Adding an Expense
 
-![](20200923_211252.gif)
+![](20200923_214210.gif)
+
+## Scrolling through Multiple Enteries
+
+![](20200923_214414.gif)
 
 ## About Developer Profile Buttons
 
